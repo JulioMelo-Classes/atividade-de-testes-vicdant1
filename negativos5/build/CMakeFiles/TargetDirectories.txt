@@ -1,0 +1,4 @@
+/home/victor.dantas.707/lp1/semana1/atividade-de-testes-vicdant1/negativos5/build/CMakeFiles/program.dir
+/home/victor.dantas.707/lp1/semana1/atividade-de-testes-vicdant1/negativos5/build/CMakeFiles/verify.dir
+/home/victor.dantas.707/lp1/semana1/atividade-de-testes-vicdant1/negativos5/build/CMakeFiles/edit_cache.dir
+/home/victor.dantas.707/lp1/semana1/atividade-de-testes-vicdant1/negativos5/build/CMakeFiles/rebuild_cache.dir
